@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="136bb85e-c46b-4b88-86cc-8390e98ce956" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/goethe-user/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/goethe-user/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goethe-user/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/goethe-user/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goethe-user/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/goethe-user/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goethe-user/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/goethe-user/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/goethe-user" />
+  </component>
+  <component name="ProjectId" id="2WT8h1NU9rB3aOkD60qyu3NQwBc" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/TuDT/Desktop/Code/goethe-user/Client/goethe-user",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="136bb85e-c46b-4b88-86cc-8390e98ce956" name="Changes" comment="" />
+      <created>1696745325014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696745325014</updated>
+      <workItem from="1696745326176" duration="8000" />
+    </task>
+    <servers />
+  </component>
+</project>
