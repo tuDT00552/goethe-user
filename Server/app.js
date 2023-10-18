@@ -28,13 +28,19 @@ app.get('/api/users', (req, res) => {
 
   connection.query(query)
     .then(([results, fields]) => {
-      res.json(results);
+      const processedResults = results.map(row => ({
+        ...row,
+        isActive: row.isActive === 1 ? true : false
+      }));
+
+      res.json(processedResults);
     })
     .catch((error) => {
       console.error('Lỗi truy vấn: ' + error.stack);
       res.status(500).json({ error: 'Lỗi truy vấn cơ sở dữ liệu' });
     });
 });
+
 
 app.get('/api/users/update', (req, res) => {
   const { id, isActive } = req.query;
